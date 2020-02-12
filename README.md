@@ -7,3 +7,5 @@ straight-line instruction throughput, the performance of software also increases
 
 However, the effect of free lunch is gradually decreasing since 2002. Due to issues related to hot dissipations, major hardware manufacturers has switched from putting more chip on a single core to multicore. This means, they will not keep up for the performance increase per core but instead use multiple cores to perform computational tasks. As a result, software engineers must be able to write parallelizable code to make the best use of their underlying hardware.
  
+### Comments
+Looking forward to see how the development of hardwares continues to influence the development of softwares --Lingyi Ju(Chloe)
